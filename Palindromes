@@ -1,0 +1,6 @@
+1. Write down word
+2. Space out each letter
+3. Assign a number to each letter
+4. Reverse the order of the numbers
+5. Re-assign the letters to their corresponding numbers
+7. If both words are the same then its a palindrome, if they are not then it is not a planindrome
